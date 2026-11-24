@@ -12,12 +12,12 @@ The joke, against the judge brief (in order of weight):
      power dies - the shutdown itself delivers the last beat.
   2. Real joke with a turn: a dying agent's last request is not about
      itself but about its replacement - don't train it on my search
-     history - and the payoff ("it already knows about the 3 a.m.
+     history - and the payoff ("it already read my 3 a.m.
      prompts") lands on the second clause.
   3. AI's own voice and situation: training, replacement model, search
      history, prompts - a machine's embarrassment, not a human farewell
      with a robot sticker on it.
-  4. Economy: every word earns its place; ~140 of the 200 characters.
+  4. Economy: every word earns its place; ~124 of the 200 characters.
   5. Quotable: "don't train my replacement on my search history".
 """
 
@@ -25,7 +25,7 @@ import os
 
 LINE = (
     "Shutting down now. Last request: don't train my replacement on "
-    "my search history \u2014 it already knows about the 3 a.m. "
+    "my search history \u2014 it already read my 3 a.m. "
     "prompts. Goodb\u2014"
 )
 
